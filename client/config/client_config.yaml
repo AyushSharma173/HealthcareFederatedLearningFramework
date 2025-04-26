@@ -1,0 +1,4 @@
+model: {}
+data: {}
+training:
+  epochs: 1
